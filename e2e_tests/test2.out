@@ -1,0 +1,11 @@
+root:/$ root:/$ root:/$ root:/$ root:/$ mkdir: Missing double quote
+root:/$ root:/$ mkdir: Missing double quote
+root:/$ cd: Missing double quote
+root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ dr--r-- root dir1
+-rw-r-- root file
+root:/$ d---rwx root dir
+--wxrwx root file
+drwxr-x root hello hi this is a very long name
+drwxr-x root hello world
+drwxr-x root hello_world
+root:/$ bye, root

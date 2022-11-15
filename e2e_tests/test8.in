@@ -1,0 +1,10 @@
+mkdir -p hi/hello
+mkdir test
+cd hi
+mv hello test/hi
+mv hi test/hello
+cd ..
+mkdir hey
+touch test/hi
+mv test/hi hey
+exit

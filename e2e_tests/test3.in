@@ -1,0 +1,33 @@
+mkdir -r /hi/hello/help/
+mkdir -p /hi/hello/help/
+cd /hi/./../hi
+cd ..
+cd /
+cd test
+touch test
+cd test
+cd ../hi
+cdexit
+cd ..
+adduser usr
+chmod 87# hi
+chmod -p o-x hi
+chmod o-x hi
+su usr
+deluser root
+su
+deluser root
+adduser user
+adduser user
+deluser seconduser
+su seconduser
+su user
+adduser seconduser
+chown file user
+chmod u+x hi
+deluser user
+cd hi
+su
+mv hi hello/meme
+mv test hi/meme
+exit

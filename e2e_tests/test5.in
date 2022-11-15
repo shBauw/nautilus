@@ -1,0 +1,15 @@
+mkdir hi
+adduser usr
+chown o-r hi
+chmod o-r hi
+cd hi
+su usr
+ls
+su
+cd ..
+chmod o+r hi
+mkdir hi/.hello
+cd hi
+su usr
+ls
+exit

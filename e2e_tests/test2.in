@@ -1,0 +1,19 @@
+touch file
+mkdir -p dir/dir1
+mkdir "hello_world"
+mkdir "hello world"
+mkdir "hello
+mkdir "hello hi this is a very long name"
+mkdir "hello hi this is a test
+cd test"
+chmod a=x file
+chmod u+w file
+chmod -r a=r dir
+chmod o-rwx dir
+chmod o+rwx file
+chmod a+rwx dir
+chmod u-rwx dir
+cp file dir/file
+ls -l dir
+ls -l
+exit

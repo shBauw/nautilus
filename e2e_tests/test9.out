@@ -1,0 +1,6 @@
+root:/$ root:/$ rmdir: Directory not empty
+root:/$ rmdir: Cannot remove pwd
+root:/$ root:/this$ rmdir: Directory not empty
+root:/this$ rmdir: No such file or directory
+root:/this$ root:/this$ root:/this$ user:/this$ rm: Is a directory
+user:/this$ bye, user

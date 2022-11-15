@@ -1,0 +1,26 @@
+cd /..
+mkdir hi
+mkdir -p hi/hi/hello/../test/
+adduser usr
+chown usr hi
+chmod u= hi
+mkdir hi
+chmod u= /
+su usr
+cd hi
+mkdir hello
+su
+touch /file
+touch file/file
+mkdir test
+touch test/test/test
+cp file file
+touch test/test
+cp file test/test/hi
+cp file test2/
+cp test hello/test
+cp file test
+cp file test/testing/test2
+su usr
+cp file hi/testing
+exit

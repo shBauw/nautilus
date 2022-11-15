@@ -1,0 +1,30 @@
+touch hi
+mv hi hello/
+mv hi hello/hi
+mkdir hello
+cp hi hello/hi
+ls hello
+mv hi hello/hi
+adduser usr
+chmod -r o=+= /
+chmod -r o+=a /
+chmod -r o== /
+chmod -r o= /
+su usr
+mv hi hello/hi
+ls hello
+su
+touch hi
+mkdir hello/testing
+su usr
+mv hi hello/test
+rm hello/hi
+rm hello/test
+rmdir hello/testing
+su
+chown -r usr /
+chmod -r o= /
+ls -l
+su usr
+chmod -r o+x hello
+exit

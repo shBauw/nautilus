@@ -1,0 +1,4 @@
+root:/$ root:/$ root:/$ root:/hi$ mv: Source is a directory
+root:/hi$ mv: No such file
+root:/hi$ root:/$ root:/$ root:/$ mv: Destination is a directory
+root:/$ bye, root

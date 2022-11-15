@@ -1,0 +1,13 @@
+root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ mkdir: File exists
+root:/$ root:/$ usr:/$ cd: Permission denied
+usr:/$ mkdir: Permission denied
+usr:/$ root:/$ root:/$ touch: Ancestor directory does not exist
+root:/$ root:/$ touch: Ancestor directory does not exist
+root:/$ cp: File exists
+root:/$ root:/$ cp: No such file or directory
+root:/$ cp: Destination is a directory
+root:/$ cp: Source is a directory
+root:/$ cp: Destination is a directory
+root:/$ cp: No such file or directory
+root:/$ usr:/$ cp: Permission denied
+usr:/$ bye, usr

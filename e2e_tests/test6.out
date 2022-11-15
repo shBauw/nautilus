@@ -1,0 +1,5 @@
+root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ usr:/$ usr:/hello$ usr:/hello$ root:/hello$ chmod: No such file or directory
+root:/hello$ root:/$ usr:/$ usr:/hello$ root:/hello$ cp: Invalid syntax
+root:/hello$ su: Invalid syntax
+root:/hello$ mkdir: Ancestor directory does not exist
+root:/hello$ bye, root

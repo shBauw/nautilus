@@ -1,0 +1,24 @@
+mkdir mkdir
+mkdir hello
+touch hello/hi
+mv hello/hi hey
+mkdir hello/hi
+touch hello/hi/meme
+cp hello/hi/meme/yknow hi
+mkdir test
+mkdir test/test2
+chmod -r a-rwx test
+adduser usr
+su usr
+ls test
+ls test/test2
+cd test
+cd test/test2
+ls -q
+ls meme
+ls
+su
+cd test
+su usr
+ls
+exit

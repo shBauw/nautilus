@@ -1,0 +1,17 @@
+root:/$ root:/$ mv: Destination is a directory
+root:/$ mv: No such file or directory
+root:/$ root:/$ root:/$ hi
+root:/$ mv: File exists
+root:/$ root:/$ chmod: Invalid mode
+root:/$ chmod: Invalid mode
+root:/$ chmod: Invalid mode
+root:/$ root:/$ usr:/$ mv: File exists
+usr:/$ ls: Permission denied
+usr:/$ root:/$ root:/$ root:/$ usr:/$ mv: Permission denied
+usr:/$ rm: Permission denied
+usr:/$ rm: No such file
+usr:/$ rmdir: Permission denied
+usr:/$ root:/$ root:/$ root:/$ drwx--- usr hello
+-rw---- usr hi
+root:/$ usr:/$ chmod: Permission denied
+usr:/$ bye, usr

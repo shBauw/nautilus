@@ -1,0 +1,18 @@
+mkdir hello
+touch hello/hi
+adduser usr
+chown usr hello
+chown usr hello/hi
+su usr
+cd hello/
+touch hey
+su
+chmod u-rwx hello
+cd ..
+su usr
+cd hello
+su
+cp
+su hello hi
+mkdir hello/hi/hey
+exit

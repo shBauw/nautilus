@@ -1,0 +1,7 @@
+root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ folder/file
+root:/$ root:/$ root:/folder$ root:/folder$ root:/$ usr:/$ folder/file
+usr:/$ root:/$ root:/$ root:/$ chown: No such file or directory
+root:/$ chown: No such file or directory
+root:/$ chown: Invalid user
+root:/$ root:/$ root:/$ usr:/$ ls: Permission denied
+usr:/$ bye, usr

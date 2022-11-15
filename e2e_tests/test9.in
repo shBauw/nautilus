@@ -1,0 +1,11 @@
+mkdir -p this/is/a/test
+rmdir this/is
+rmdir /
+cd this
+rmdir /
+rmdir this
+adduser user
+chmod o= is
+su user
+rm is
+exit

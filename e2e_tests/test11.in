@@ -1,0 +1,23 @@
+mkdir folder
+mkdir folder/folder2
+touch folder/file
+chmod o=rwx /
+adduser usr
+ls folder/file
+chmod o= folder/file
+cd folder
+cp file file2
+cd ..
+su usr
+ls folder/file
+su
+mkdir .hidden
+ls -d .hidden
+chown usr .hide
+chown -r usr .hide
+chown -r user .hide
+chmod -r a=rwx /
+chmod a=x folder
+su usr
+ls -d folder/folder2
+exit

@@ -1,0 +1,22 @@
+root:/$ mkdir: Invalid syntax
+root:/$ root:/$ root:/hi$ root:/$ root:/$ cd: No such file or directory
+root:/$ root:/$ cd: Destination is a file
+root:/$ root:/hi$ cdexit: Command not found
+root:/hi$ root:/$ root:/$ Invalid characters
+root:/$ chmod: Invalid syntax
+root:/$ root:/$ usr:/$ deluser: Operation not permitted
+usr:/$ root:/$ WARNING: You are just about to delete the root account
+Usually this is never required as it may render the whole system unusable
+If you really want this, call deluser with parameter --force
+(but this `deluser` does not allow `--force`, haha)
+Stopping now without having performed any action
+root:/$ root:/$ adduser: The user already exists
+root:/$ deluser: The user does not exist
+root:/$ su: Invalid user
+root:/$ user:/$ adduser: Operation not permitted
+user:/$ chown: Operation not permitted
+user:/$ chmod: Operation not permitted
+user:/$ deluser: Operation not permitted
+user:/$ cd: Permission denied
+user:/$ root:/$ mv: Source is a directory
+root:/$ root:/$ bye, root

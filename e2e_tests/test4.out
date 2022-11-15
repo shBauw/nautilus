@@ -1,0 +1,13 @@
+root:/$ mkdir: Invalid syntax
+root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ cp: No such file
+root:/$ root:/$ root:/$ root:/$ root:/$ usr:/$ ls: Permission denied
+usr:/$ ls: Permission denied
+usr:/$ cd: Permission denied
+usr:/$ cd: Permission denied
+usr:/$ ls: Invalid syntax
+usr:/$ ls: No such file or directory
+usr:/$ hello
+hey
+test
+usr:/$ root:/$ root:/test$ usr:/test$ ls: Permission denied
+usr:/test$ bye, usr

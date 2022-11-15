@@ -1,0 +1,30 @@
+pwwd
+mkdir e$q
+pwd
+mkdir -p .hi/hello/help
+touch .hi/hello/help
+adduser usr
+chown -r usr .hi
+su usr
+touch hello
+ls -l
+ls -a
+ls -d
+deluser usr
+deluser ussr
+su
+deluser usr
+cd .hi
+rmdir hello
+mkdir -p hi
+mkdir trip
+rmdir trip
+rm hi
+touch file
+adduser usr
+chown usr file
+rmdir file
+rm file
+cd ..
+touch .hello
+exit

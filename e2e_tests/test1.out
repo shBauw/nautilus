@@ -1,0 +1,13 @@
+root:/$ pwwd: Command not found
+root:/$ mkdir: Invalid syntax
+root:/$ /
+root:/$ root:/$ root:/$ root:/$ root:/$ usr:/$ touch: Permission denied
+usr:/$ usr:/$ .
+..
+.hi
+usr:/$ usr:/$ deluser: Operation not permitted
+usr:/$ deluser: Operation not permitted
+usr:/$ root:/$ root:/$ root:/.hi$ rmdir: Directory not empty
+root:/.hi$ root:/.hi$ root:/.hi$ root:/.hi$ rm: Is a directory
+root:/.hi$ root:/.hi$ root:/.hi$ root:/.hi$ rmdir: Not a directory
+root:/.hi$ root:/.hi$ root:/$ root:/$ bye, root
